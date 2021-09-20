@@ -2,7 +2,7 @@
 
 O repositório tem como intuito de postar os exercicios feitos durante o bootcamp Everis New Talents Java #2 oferecido pela DIO e a Everis. 
 
-**Status: ** em andamento.  
+**Status:** em andamento.  
 
 ------
 
