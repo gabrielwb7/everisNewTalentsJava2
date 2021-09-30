@@ -4,8 +4,6 @@ O repositório tem como intuito de postar os exercicios feitos durante o bootcam
 
 **Status:** finalizado.  
 
-[TOC]
-
 ------
 
 #### Primeiro passos com Java 
