@@ -2,7 +2,9 @@
 
 O repositório tem como intuito de postar os exercicios feitos durante o bootcamp Everis New Talents Java #2 oferecido pela DIO e a Everis. 
 
-**Status:** em andamento.  
+**Status:** finalizado.  
+
+[TOC]
 
 ------
 
@@ -15,8 +17,19 @@ Inseridos as soluções dos desafios:
 
 ------
 
-#### **Introdução a programação com Java**
+#### Introdução a programação com Java
 
 - Tuitando
 - DDD 
 - Conversão de tempo em segundos para horas e minutos
+
+------
+
+#### Primeiros desafios de código com Java 
+
+- Mês 
+- Teste de Seleção 1 
+- Validação de Nota
+
+------
+
