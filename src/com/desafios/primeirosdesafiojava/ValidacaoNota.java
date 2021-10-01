@@ -23,10 +23,8 @@ public class ValidacaoNota {
             segundaNota = scan.nextFloat();
         }
 
-        if (validaNota(primeiraNota) && validaNota(segundaNota)) {
-            media(primeiraNota,segundaNota);
-        }
-
+        media(primeiraNota,segundaNota);
+       
     }
 
     private static void media(float primeiraNota, float segundaNota) {
